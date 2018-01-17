@@ -9,7 +9,7 @@ var app = express()
 var uuid = require ("node-uuid")
 var func_talk = __F ('talk/talk')
 var func_user = __F ("user")
-var pagedown = require("pagedown")
+var pagedown = require("pagedown-htmljs")
 var safeConverter = new pagedown.Converter()
 var moment = require ("moment")
 moment.lang('zh-cn');

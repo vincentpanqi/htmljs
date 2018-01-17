@@ -16,7 +16,7 @@
 
   func_email = __F('email');
 
-  pagedown = require("pagedown");
+  pagedown = require("pagedown-htmljs");
 
   safeConverter = pagedown.getSanitizingConverter();
 

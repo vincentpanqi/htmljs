@@ -4,7 +4,7 @@
 
   func_tag = __F('tag');
 
-  pagedown = require("pagedown");
+  pagedown = require("pagedown-htmljs");
 
   safeConverter = pagedown.getSanitizingConverter();
 

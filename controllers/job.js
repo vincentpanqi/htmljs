@@ -10,7 +10,7 @@
 
   func_cloudmail = __F('cloudmail');
 
-  pagedown = require("pagedown");
+  pagedown = require("pagedown-htmljs");
 
   safeConverter = new pagedown.Converter();
 

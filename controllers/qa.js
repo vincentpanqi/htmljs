@@ -26,7 +26,7 @@
 
   func_channel_user = __F('qa/channel_users');
 
-  pagedown = require("pagedown");
+  pagedown = require("pagedown-htmljs");
 
   safeConverter = new pagedown.Converter();
 

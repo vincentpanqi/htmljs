@@ -2,7 +2,7 @@
 (function() {
   var Sina, config, func_email, func_info, func_search, func_topic, func_topic_comment, func_topic_tag, func_user, moment, pagedown, safeConverter, sina;
 
-  pagedown = require("pagedown");
+  pagedown = require("pagedown-htmljs");
 
   safeConverter = new pagedown.Converter();
 
