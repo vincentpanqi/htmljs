@@ -1,0 +1,38 @@
+#footer
+  .wrapper
+
+    .module
+      div(style="font-size:12px;line-height:20px;") Power By NodeJS，本站所有代码的地址在<a href="https://github.com/xinyu198736/htmljs" target="_blank">这里</a>  浙ICP备12047043号  <a href="/friendlink">友情链接</a>  <a href="https://f2e.souche.com/blog" target="_blank">大搜车前端团队博客</a>
+
+#coin-fixed
+  span#gotop
+    i.icon-airplane
+  if locals.user
+    span.coin-count.hidden
+      i.icon-coins
+      em #{user.bi}
+    span.history-trigger.hidden
+      |收支记录
+      i.icon-chevron-left
+      ul.history-list.hidden
+  span.my-favs
+    i.icon-heart
+    a(href="/user/fav")  我的收藏
+
+
+script.
+  try{
+    $('.tooltip-trigger').tooltip({
+          placement:"bottom"
+          });
+  }catch(e){};
+
+
+
+.hidden
+  script.
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F2fc2fae0509f820259c1760fce28d7d2' type='text/javascript'%3E%3C/script%3E"));
+
+//- #gotop TOP
+

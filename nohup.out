@@ -1,0 +1,597 @@
+2016-3-22 22:30:35
+DEPRECATION WARNING: The logging-option should be either a function or false. Default: console.log
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+2016-3-22 22:30:35
+get:/act
+2016-3-22 22:30:35
+get:/act/marry/count
+2016-3-22 22:30:35
+post:/act/marry/count
+2016-3-22 22:30:35
+get:/act/add
+2016-3-22 22:30:35
+post:/act/add
+2016-3-22 22:30:35
+get:/act/:id/edit
+2016-3-22 22:30:35
+post:/act/:id/edit
+2016-3-22 22:30:35
+get:/act/:id
+2016-3-22 22:30:35
+get:/act/u/:id
+2016-3-22 22:30:35
+post:/act/:id/join
+2016-3-22 22:30:35
+get:/admin/act/:id/update
+2016-3-22 22:30:35
+get:/admin/act/:id/del
+2016-3-22 22:30:35
+get:/admin/book
+2016-3-22 22:30:35
+get:/admin/book/:id/del
+2016-3-22 22:30:35
+get:/admin/admin
+2016-3-22 22:30:35
+get:/admin/articles
+2016-3-22 22:30:35
+get:/admin/reads
+2016-3-22 22:30:35
+get:/admin/acts
+2016-3-22 22:30:35
+get:/admin/article/:id/update
+2016-3-22 22:30:35
+get:/admin/article/:id/del
+2016-3-22 22:30:35
+get:/admin/upload
+2016-3-22 22:30:35
+post:/admin/upload
+2016-3-22 22:30:35
+get:/admin/topic_tag
+2016-3-22 22:30:35
+get:/admin/topic_tag/add
+2016-3-22 22:30:35
+post:/admin/topic_tag/add
+2016-3-22 22:30:35
+get:/admin/topic_tag/:id/del
+2016-3-22 22:30:35
+get:/alipay/create
+2016-3-22 22:30:35
+get:/alipay/trade_create_by_buyer/notify_url
+2016-3-22 22:30:35
+post:/alipay/trade_create_by_buyer/notify_url
+2016-3-22 22:30:35
+get:/alipay/trade_create_by_buyer/return_url
+2016-3-22 22:30:35
+get:/app
+2016-3-22 22:30:35
+get:/app/column
+2016-3-22 22:30:35
+get:/app/blog/:id
+2016-3-22 22:30:35
+get:/app/article/:id
+2016-3-22 22:30:35
+get:/article
+2016-3-22 22:30:35
+get:/article/email
+2016-3-22 22:30:35
+get:/article/rss|/rss.xml
+2016-3-22 22:30:35
+get:/article.json
+2016-3-22 22:30:35
+get:/article/old
+2016-3-22 22:30:35
+get:/article/add/recommend
+2016-3-22 22:30:35
+post:/article/add/recommend
+2016-3-22 22:30:35
+get:/article/add
+2016-3-22 22:30:35
+post:/article/add
+2016-3-22 22:30:35
+post:/article/add-direct
+2016-3-22 22:30:35
+get:/article/:id/edit
+2016-3-22 22:30:35
+post:/article/:id/edit
+2016-3-22 22:30:35
+get:/article/:id/update
+2016-3-22 22:30:35
+get:/article/:id/delete
+2016-3-22 22:30:35
+post:/article/:id/zan
+2016-3-22 22:30:35
+get:/article/:id/create_pic
+2016-3-22 22:30:35
+get:/article/:id/pay
+2016-3-22 22:30:35
+get:/article/column
+2016-3-22 22:30:35
+get:/article/:id.json
+2016-3-22 22:30:35
+get:/article/:id
+2016-3-22 22:30:35
+get:/article/user/:id
+2016-3-22 22:30:35
+get:/article/column/add
+2016-3-22 22:30:35
+post:/article/column/add
+2016-3-22 22:30:35
+get:/article/column/:id/edit
+2016-3-22 22:30:35
+post:/article/column/:id/edit
+2016-3-22 22:30:35
+get:/article/column/:id/update
+2016-3-22 22:30:35
+post:/article/column/:id/adduser
+2016-3-22 22:30:35
+get:/article/column/:id
+2016-3-22 22:30:35
+get:/article/column/:id/create_pic
+2016-3-22 22:30:35
+get:/article/column/:id/rss
+2016-3-22 22:30:35
+post:/article/column/:id/rss
+2016-3-22 22:30:35
+get:/blog
+2016-3-22 22:30:35
+get:/blog/add-article
+2016-3-22 22:30:35
+post:/blog/add-article
+2016-3-22 22:30:35
+get:/blog/add-blog
+2016-3-22 22:30:35
+post:/blog/add-blog
+2016-3-22 22:30:35
+post:/blog/add-one
+2016-3-22 22:30:35
+get:/blog/all.json
+2016-3-22 22:30:35
+get:/blog/:id.json
+2016-3-22 22:30:35
+get:/blog/:id/update
+2016-3-22 22:30:35
+get:/blog/:id
+2016-3-22 22:30:35
+get:/book
+2016-3-22 22:30:35
+get:/book/add
+2016-3-22 22:30:35
+post:/book/add
+2016-3-22 22:30:35
+get:/book/:id/buy
+2016-3-22 22:30:35
+get:/book/:id/del
+2016-3-22 22:30:35
+get:/book/isbn_to_info
+2016-3-22 22:30:35
+post:/cloudmail/post_raw/recieve
+2016-3-22 22:30:35
+post:/cloudmail/recieve
+2016-3-22 22:30:35
+post:/cloudmail/post_raw/recieve
+2016-3-22 22:30:35
+post:/cloudmail/recieve
+2016-3-22 22:30:36
+get:/comment/:target_id
+2016-3-22 22:30:36
+get:/comment/add
+2016-3-22 22:30:36
+post:/comment/add
+2016-3-22 22:30:36
+get:/data/add_share_friend
+2016-3-22 22:30:36
+get:/data/add_share_timeline
+2016-3-22 22:30:36
+get:/data/add_open_1
+2016-3-22 22:30:36
+get:/data/add_open_2
+2016-3-22 22:30:36
+get:/data/add_open_3
+2016-3-22 22:30:36
+get:/data/show
+2016-3-22 22:30:36
+get:/
+2016-3-22 22:30:36
+get:/index/:id/update
+2016-3-22 22:30:36
+get:/rss.xml
+2016-3-22 22:30:36
+get:/articles
+2016-3-22 22:30:36
+get:/article/add
+2016-3-22 22:30:36
+get:/cards
+2016-3-22 22:30:36
+get:/add-card
+2016-3-22 22:30:36
+post:/add-card
+2016-3-22 22:30:36
+get:/edit-card
+2016-3-22 22:30:36
+post:/edit-card
+2016-3-22 22:30:36
+get:/card/:id
+2016-3-22 22:30:36
+post:/card/:id/zan
+2016-3-22 22:30:36
+post:/card/:id/kai
+2016-3-22 22:30:36
+post:/upload
+2016-3-22 22:30:36
+post:/upload_resume
+2016-3-22 22:30:36
+post:/online_to_local
+2016-3-22 22:30:36
+get:/ad
+2016-3-22 22:30:36
+get:/search-his
+2016-3-22 22:30:36
+get:/search
+2016-3-22 22:30:36
+get:/google72b29f4df6c0059b.html
+2016-3-22 22:30:36
+get:/robots.txt
+2016-3-22 22:30:36
+post:/rss/email
+2016-3-22 22:30:36
+get:/
+2016-3-22 22:30:36
+get:/index/:id/update
+2016-3-22 22:30:36
+get:/rss.xml
+2016-3-22 22:30:36
+get:/articles
+2016-3-22 22:30:36
+get:/article/add
+2016-3-22 22:30:36
+get:/cards
+2016-3-22 22:30:36
+get:/add-card
+2016-3-22 22:30:36
+post:/add-card
+2016-3-22 22:30:36
+get:/edit-card
+2016-3-22 22:30:36
+post:/edit-card
+2016-3-22 22:30:36
+get:/card/:id
+2016-3-22 22:30:36
+post:/card/:id/zan
+2016-3-22 22:30:36
+post:/card/:id/kai
+2016-3-22 22:30:36
+post:/upload
+2016-3-22 22:30:36
+post:/upload_resume
+2016-3-22 22:30:36
+post:/online_to_local
+2016-3-22 22:30:36
+get:/ad
+2016-3-22 22:30:36
+get:/search-his
+2016-3-22 22:30:36
+get:/search
+2016-3-22 22:30:36
+get:/google72b29f4df6c0059b.html
+2016-3-22 22:30:36
+get:/robots.txt
+2016-3-22 22:30:36
+post:/rss/email
+2016-3-22 22:30:36
+get:/info/read
+2016-3-22 22:30:36
+post:/info/read
+2016-3-22 22:30:36
+get:/job
+2016-3-22 22:30:36
+get:/job/add
+2016-3-22 22:30:36
+post:/job/add
+2016-3-22 22:30:36
+get:/job/:id
+2016-3-22 22:30:36
+post:/job/:id/zan
+2016-3-22 22:30:36
+get:/job/:id/update
+2016-3-22 22:30:36
+get:/job/:id/create_mail
+2016-3-22 22:30:36
+post:/job/:id/add
+2016-3-22 22:30:36
+get:/job/:id/edit
+2016-3-22 22:30:36
+post:/job/:id/edit
+2016-3-22 22:30:36
+get:/job/resume/add
+2016-3-22 22:30:36
+post:/job/resume/add
+2016-3-22 22:30:36
+get:/job/resume/edit/:id
+2016-3-22 22:30:36
+get:/music/show_url
+2016-3-22 22:30:36
+get:/music
+2016-3-22 22:30:36
+get:/music.json
+2016-3-22 22:30:36
+get:/music/add
+2016-3-22 22:30:36
+post:/music/add
+2016-3-22 22:30:36
+get:/music/:id.json
+2016-3-22 22:30:36
+get:/music/:id
+2016-3-22 22:30:36
+get:/music/tool/:id
+2016-3-22 22:30:36
+get:/qa
+2016-3-22 22:30:36
+get:/qa/user/:id
+2016-3-22 22:30:36
+get:/qa/add
+2016-3-22 22:30:36
+post:/qa/add
+2016-3-22 22:30:36
+get:/qa/:id/comment
+2016-3-22 22:30:36
+post:/qa/:id/comment
+2016-3-22 22:30:36
+get:/qa/:id
+2016-3-22 22:30:36
+get:/qa/:id/update
+2016-3-22 22:30:36
+get:/qa/answer/:id/update
+2016-3-22 22:30:36
+get:/qa/:id/edit
+2016-3-22 22:30:36
+post:/qa/:id/edit
+2016-3-22 22:30:36
+get:/qa/answer/:id/edit
+2016-3-22 22:30:36
+post:/qa/answer/:id/edit
+2016-3-22 22:30:36
+get:/qa/answer/:id/comment
+2016-3-22 22:30:36
+post:/qa/answer/:id/comment
+2016-3-22 22:30:36
+get:/qa/answer/:id/zan
+2016-3-22 22:30:36
+post:/qa/answer/:id/zan
+2016-3-22 22:30:36
+post:/qa/:id/add
+2016-3-22 22:30:36
+get:/qa/:question_id/good/:answer_id
+2016-3-22 22:30:36
+get:/qa/:question_id/move_to_topic
+2016-3-22 22:30:36
+post:/qa/channel/:id/join
+2016-3-22 22:30:36
+get:/tag
+2016-3-22 22:30:36
+get:/tag.json
+2016-3-22 22:30:36
+get:/tag/add
+2016-3-22 22:30:36
+post:/tag/add
+2016-3-22 22:30:36
+get:/tag/:id
+2016-3-22 22:30:36
+get:/tag/:id/articles
+2016-3-22 22:30:36
+get:/tag/n/:name
+2016-3-22 22:30:36
+get:/tag/:id/edit
+2016-3-22 22:30:36
+post:/tag/:id/edit
+2016-3-22 22:30:36
+get:/talk
+2016-3-22 22:30:36
+post:/tip/add
+2016-3-22 22:30:36
+get:/tip/:id
+2016-3-22 22:30:36
+get:/tip/p/:id
+2016-3-22 22:30:36
+get:/tools
+2016-3-22 22:30:36
+get:/tools/:name
+2016-3-22 22:30:36
+get:/tools/unicode
+2016-3-22 22:30:36
+get:/tools/beautify
+2016-3-22 22:30:36
+post:/tools/beautify
+2016-3-22 22:30:36
+get:/topic.json
+2016-3-22 22:30:36
+get:/topic
+2016-3-22 22:30:36
+get:/topic/add
+2016-3-22 22:30:36
+post:/topic/add
+2016-3-22 22:30:36
+get:/topic/:id
+2016-3-22 22:30:36
+get:/topic/:id/delete
+2016-3-22 22:30:36
+get:/topic/:id/edit
+2016-3-22 22:30:36
+post:/topic/:id/edit
+2016-3-22 22:30:36
+post:/topic/:id/add
+2016-3-22 22:30:36
+post:/topic/comment/:id/zan
+2016-3-22 22:30:36
+post:/topic/:id/zan
+2016-3-22 22:30:36
+get:/toutiao
+2016-3-22 22:30:36
+post:/toutiao
+2016-3-22 22:30:36
+get:/u
+2016-3-22 22:30:36
+get:/u/add
+2016-3-22 22:30:36
+get:/u/:id
+2016-3-22 22:30:36
+get:/user/login
+2016-3-22 22:30:36
+get:/user/logout
+2016-3-22 22:30:36
+post:/user/login.json
+2016-3-22 22:30:36
+get:/user/check.json
+2016-3-22 22:30:36
+get:/user/sina_cb
+2016-3-22 22:30:36
+post:/user/connet-card
+2016-3-22 22:30:36
+post:/user/update
+2016-3-22 22:30:36
+get:/user/coinhis
+2016-3-22 22:30:36
+get:/user/bihis
+2016-3-22 22:30:36
+get:/user/myarticles
+2016-3-22 22:30:36
+get:/user/mytopics
+2016-3-22 22:30:36
+get:/user/myqa
+2016-3-22 22:30:36
+get:/user/all-users
+2016-3-22 22:30:36
+get:/user/fav
+2016-3-22 22:30:36
+post:/user/fav
+2016-3-22 22:30:36
+get:/user
+2016-3-22 22:30:36
+get:/user/email
+2016-3-22 22:30:36
+post:/user/email
+2016-3-22 22:30:36
+get:/user/getappid
+2016-3-22 22:30:36
+get:/user/:id
+2016-3-22 22:30:36
+get:/weekly
+2016-3-22 22:30:36
+get:/weixin/api
+2016-3-22 22:30:36
+post:/weixin/api
+2016-3-22 22:30:36
+Express server listening on port 5678
+2016-3-22 22:30:36
+Executing (default): SELECT COUNT(*) as `count` FROM `cards`;
+2016-3-22 22:30:36
+Executing (default): SELECT COUNT(*) as `count` FROM `users`;
+2016-3-22 22:30:36
+Executing (default): SELECT COUNT(*) as `count` FROM `articles`;
+2016-3-22 22:30:36
+Executing (default): SELECT COUNT(*) as `count` FROM `columns`;
+2016-3-22 22:30:36
+Executing (default): SELECT COUNT(*) as `count` FROM `questions`;
+2016-3-22 22:30:36
+Executing (default): SELECT COUNT(*) as `count` FROM `topics`;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `acts` (`id` int auto_increment , `title` varchar(200), `person_limit` int, `time` datetime, `location` varchar(255), `map_url` varchar(1000), `partner` text, `desc_md` text, `desc_html` text, `banner` varchar(255), `price` double, `comment_count` int DEFAULT 0, `visit_count` int DEFAULT 0, `is_publish` tinyint DEFAULT '0', `is_down` tinyint DEFAULT '0', `uuid` varchar(40), `share_text` varchar(200), `is_goods` tinyint DEFAULT '0', `need_address` tinyint DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `act_joiners` (`id` int auto_increment , `act_id` int, `user_id` int, `user_headpic` varchar(255), `user_nick` varchar(100), `payment` float, `is_publish` tinyint DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `payments` (`id` int auto_increment , `uuid` varchar(40), `trade_num` varchar(100), `trade_title` varchar(200), `target_uuid` varchar(40), `trade_price` double, `target_type` int, `target_user_id` int, `alipay_tradenum` varchar(100), `status` int DEFAULT 1, `buyer_email` varchar(100), `pay_time` datetime, `buyer_id` varchar(40), `trade_no` varchar(40), `need_address` tinyint DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `search_his` (`id` int auto_increment , `word` varchar(100), `count` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `users` (`id` int auto_increment , `nick` varchar(255), `head_pic` varchar(255), `weibo_id` bigint, `weibo_token` varchar(100), `weibo_refresh` varchar(100), `card_id` int, `coin` int DEFAULT 0, `is_admin` tinyint DEFAULT 0, `sex` varchar(5), `weibo_name` varchar(50), `desc` varchar(300), `bi` int DEFAULT 5, `email` varchar(100), `password` varchar(100), `is_block` tinyint DEFAULT 0, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `cards` (`id` int auto_increment , `user_id` int, `name` varchar(100), `nick` varchar(100), `sex` varchar(5), `city` varchar(20), `zhiwei` varchar(50), `techang` text, `blog` varchar(255), `gongsi` varchar(100), `weibo` varchar(255), `email` varchar(100), `qq` varchar(20), `tel` varchar(20), `desc` text, `github` varchar(255), `shijian` varchar(20), `is_dan` varchar(20), `head_pic` varchar(255), `address` varchar(1000), `is_zhaopin` tinyint DEFAULT 0, `is_qiuzhi` tinyint DEFAULT 0, `is_xiangqin` tinyint DEFAULT 0, `is_jiehuo` tinyint DEFAULT 0, `visit_count` int, `zan_count` int, `comment_count` int DEFAULT 0, `alipay` varchar(200), `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `card_visit_log` (`id` int auto_increment , `card_id` int, `user_id` int, `user_nick` varchar(100), `user_headpic` varchar(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `infos` (`id` int auto_increment , `type` int, `source_user_id` int, `source_user_nick` varchar(100), `target_user_id` int, `target_path` varchar(100), `target_path_name` varchar(100), `time` datetime, `action_name` varchar(20), `content` text, `is_read` tinyint DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `cards` (`id` int auto_increment , `user_id` int, `name` varchar(100), `nick` varchar(100), `sex` varchar(5), `city` varchar(20), `zhiwei` varchar(50), `techang` text, `blog` varchar(255), `gongsi` varchar(100), `weibo` varchar(255), `email` varchar(100), `qq` varchar(20), `tel` varchar(20), `desc` text, `github` varchar(255), `shijian` varchar(20), `is_dan` varchar(20), `head_pic` varchar(255), `address` varchar(1000), `is_zhaopin` tinyint DEFAULT 0, `is_qiuzhi` tinyint DEFAULT 0, `is_xiangqin` tinyint DEFAULT 0, `is_jiehuo` tinyint DEFAULT 0, `visit_count` int, `zan_count` int, `comment_count` int DEFAULT 0, `alipay` varchar(200), `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `users` (`id` int auto_increment , `nick` varchar(255), `head_pic` varchar(255), `weibo_id` bigint, `weibo_token` varchar(100), `weibo_refresh` varchar(100), `card_id` int, `coin` int DEFAULT 0, `is_admin` tinyint DEFAULT 0, `sex` varchar(5), `weibo_name` varchar(50), `desc` varchar(300), `bi` int DEFAULT 5, `email` varchar(100), `password` varchar(100), `is_block` tinyint DEFAULT 0, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `card_visit_log` (`id` int auto_increment , `card_id` int, `user_id` int, `user_nick` varchar(100), `user_headpic` varchar(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `card_zan_history` (`id` int auto_increment , `user_id` int, `card_id` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `users` (`id` int auto_increment , `nick` varchar(255), `head_pic` varchar(255), `weibo_id` bigint, `weibo_token` varchar(100), `weibo_refresh` varchar(100), `card_id` int, `coin` int DEFAULT 0, `is_admin` tinyint DEFAULT 0, `sex` varchar(5), `weibo_name` varchar(50), `desc` varchar(300), `bi` int DEFAULT 5, `email` varchar(100), `password` varchar(100), `is_block` tinyint DEFAULT 0, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `books` (`id` int auto_increment , `title` varchar(200), `desc` text, `pic` varchar(300), `url` varchar(300), `user_id` int, `user_nick` varchar(100), `pub_user_id` int, `pub_user_nick` varchar(100), `price` float, `author` varchar(100), `is_selled` tinyint DEFAULT 0, `isbn` varchar(100), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `article_visit_logs` (`id` int auto_increment , `article_id` int, `user_id` int, `user_nick` varchar(100), `user_headpic` varchar(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `articles` (`id` int auto_increment , `user_id` int, `user_nick` varchar(100), `user_headpic` varchar(255), `title` varchar(255), `md` text, `html` text, `visit_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `zan_count` int DEFAULT 0, `publish_time` int, `is_publish` tinyint DEFAULT 0, `is_jian` tinyint DEFAULT 0, `is_yuanchuang` tinyint DEFAULT 0, `sort` int, `is_top` tinyint, `type` int DEFAULT 1, `quote_url` varchar(255), `desc` text, `main_pic` varchar(255), `tagNames` varchar(255), `column_id` int, `uuid` varchar(40), `score` double DEFAULT 0, `static_score` double DEFAULT 0, `pinyin` varchar(1000), `is_buy` tinyint DEFAULT 0, `tags` varchar(100), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `article_zan_logs` (`id` int auto_increment , `article_id` int, `user_id` int, `score` int, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `article_canread` (`id` int auto_increment , `user_id` int, `article_id` int, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `article_tag` (`articleid` int, `tagid` int, `id` int auto_increment , `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `tags` (`id` int auto_increment , `name` varchar(30), `desc_md` varchar(500), `desc` text, `pic` varchar(255), `keywords` varchar(200), `parent_id` int, `qa_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `sort` int DEFAULT 10, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `topic_tags` (`id` int, `uuid` varchar(40), `name` varchar(40), `desc` text, `important` int DEFAULT 0, `topic_count` int DEFAULT 0, `visit_count` int DEFAULT 0, `sort` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `columns` (`id` int auto_increment , `user_id` int, `name` varchar(100), `zan_count` int DEFAULT 0, `visit_count` int DEFAULT 0, `article_count` int DEFAULT 0, `is_publish` tinyint DEFAULT 0, `is_public` tinyint DEFAULT 1, `is_tuan` tinyint DEFAULT 0, `desc_md` text, `desc_html` text, `last_article_time` bigint, `rss_count` int DEFAULT 0, `last_notify_time` bigint DEFAULT 0, `is_jian` tinyint DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `column_rsses` (`id` int auto_increment , `uuid` varchar(40), `user_id` int, `column_id` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `article_column_users` (`id` int auto_increment , `column_id` int, `user_id` int, `user_nick` varchar(40), `user_headpic` varchar(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `bi_history` (`id` int auto_increment , `count` int, `user_id` int, `day` bigint, `reason` varchar(300), `from_title` varchar(300), `from_user_nick` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `comments` (`id` int auto_increment , `md` text, `html` text, `user_id` int, `user_headpic` varchar(255), `user_nick` varchar(50), `target_id` varchar(100), `parent_id` int, `recomment_count` int DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `user_counts` (`id` int auto_increment , `uuid` varchar(40), `user_id` int, `user_nick` varchar(100), `user_headpic` varchar(255), `answer_count` int DEFAULT 0, `b_zan_count` int DEFAULT 0, `question_count` int DEFAULT 0, `article_count` int DEFAULT 0, `topic_comment_count` int DEFAULT 0, `b_comment_count` int DEFAULT 0, `b_score_count` int DEFAULT 0, `score_count` int DEFAULT 0, `b_invite_count` int DEFAULT 0, `column_count` int DEFAULT 0, `b_visit_count` int DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `user_fav_history` (`id` int, `source_uuid` varchar(40), `user_id` int, `user_nick` varchar(100), `user_headpic` varchar(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `user_favs` (`id` int, `info_id` varchar(40), `user_id` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `question_tag` (`questionId` int, `tagId` int, `id` int auto_increment , `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `article_tag` (`articleid` int, `tagid` int, `id` int auto_increment , `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `tags` (`id` int auto_increment , `name` varchar(30), `desc_md` varchar(500), `desc` text, `pic` varchar(255), `keywords` varchar(200), `parent_id` int, `qa_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `sort` int DEFAULT 10, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `questions` (`id` int auto_increment , `title` varchar(300), `md` text, `html` text, `user_id` int, `user_headpic` varchar(255), `user_nick` varchar(50), `visit_count` int DEFAULT 0, `answer_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `is_answered` tinyint DEFAULT 0, `is_hot` tinyint DEFAULT 0, `sort` int DEFAULT 0, `tagNames` varchar(255), `uuid` varchar(40), `good_answer_id` int, `is_closed` tinyint DEFAULT 0, `is_admin` tinyint DEFAULT 0, `is_jing` tinyint DEFAULT 0, `pinyin` varchar(1500), `channel_id` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `blog_articles` (`id` int auto_increment , `blog_id` int, `uuid` varchar(40), `url` varchar(1000), `title` varchar(200), `content` text, `desc` text, `visit_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `user_id` int, `time` varchar(40), `tag_id` int, `tag_name` varchar(30), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `blog_blogs` (`id` int, `url` varchar(300), `logo` varchar(500), `name` varchar(100), `desc` text, `user_id` int, `visit_count` int DEFAULT 0, `article_count` int DEFAULT 0, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `cloudmails` (`id` int auto_increment , `from` varchar(100), `fromname` varchar(100), `to` varchar(100), `toname` varchar(100), `text` text, `html` text, `filepath` varchar(1000), `timestamp` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `localmails` (`id` int auto_increment , `source_mail` varchar(100), `target_mail` varchar(100), `user_id` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `question_tag` (`questionId` int, `tagId` int, `id` int auto_increment , `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `qa_edit_history` (`id` int auto_increment , `question_id` int, `user_id` int, `reason` varchar(100), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `questions` (`id` int auto_increment , `title` varchar(300), `md` text, `html` text, `user_id` int, `user_headpic` varchar(255), `user_nick` varchar(50), `visit_count` int DEFAULT 0, `answer_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `is_answered` tinyint DEFAULT 0, `is_hot` tinyint DEFAULT 0, `sort` int DEFAULT 0, `tagNames` varchar(255), `uuid` varchar(40), `good_answer_id` int, `is_closed` tinyint DEFAULT 0, `is_admin` tinyint DEFAULT 0, `is_jing` tinyint DEFAULT 0, `pinyin` varchar(1500), `channel_id` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `users` (`id` int auto_increment , `nick` varchar(255), `head_pic` varchar(255), `weibo_id` bigint, `weibo_token` varchar(100), `weibo_refresh` varchar(100), `card_id` int, `coin` int DEFAULT 0, `is_admin` tinyint DEFAULT 0, `sex` varchar(5), `weibo_name` varchar(50), `desc` varchar(300), `bi` int DEFAULT 5, `email` varchar(100), `password` varchar(100), `is_block` tinyint DEFAULT 0, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `tags` (`id` int auto_increment , `name` varchar(30), `desc_md` varchar(500), `desc` text, `pic` varchar(255), `keywords` varchar(200), `parent_id` int, `qa_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `sort` int DEFAULT 10, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `indexinfos` (`id` int, `info_id` varchar(40), `sort` int DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `emails` (`id` int auto_increment , `email` varchar(200), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `topic_zan_logs` (`id` int auto_increment , `topic_id` int, `user_id` int, `score` int, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `topics` (`id` int auto_increment , `uuid` varchar(40), `title` varchar(100), `md` text, `html` text, `visit_count` int DEFAULT 0, `comment_count` int DEFAULT 0, `user_id` int, `user_nick` varchar(40), `user_headpic` varchar(255), `last_comment_user_id` int, `last_comment_user_nick` varchar(40), `last_comment_time` datetime, `sort` int DEFAULT 0, `is_hot` int DEFAULT 0, `tag_id` int, `pinyin` varchar(1500), `zan_count` int, `score` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `topic_comments` (`id` int auto_increment , `md` text, `html` text, `parent_id` int, `uuid` varchar(40), `user_id` int, `user_nick` varchar(40), `user_headpic` varchar(255), `topic_id` int, `zan_count` int DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `qa_channels` (`id` int, `uuid` varchar(40), `name` varchar(40), `desc` text, `important` int DEFAULT 0, `qa_count` int DEFAULT 0, `hide` int DEFAULT 0, `visit_count` int DEFAULT 0, `sort` int, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `job_jobs` (`id` int auto_increment , `title` varchar(300), `visit_count` int DEFAULT 0, `user_id` int, `user_nick` varchar(100), `user_headpic` varchar(255), `tou_count` int DEFAULT 0, `zan_count` int DEFAULT 0, `company_name` varchar(100), `company_personcount` varchar(100), `company_country` varchar(20), `company_city` varchar(20), `company_desc` text, `email` varchar(100), `zhiwei` varchar(100), `zhaopin_personcount` int, `zhaopin_jingyan` varchar(20), `min_price` int, `max_price` int, `zhaopin_desc` text, `sort` int, `is_publish` tinyint DEFAULT 0, `is_jian` tinyint DEFAULT 0, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
+2016-3-22 22:30:36
+Executing (default): CREATE TABLE IF NOT EXISTS `job_job_zans` (`id` int auto_increment , `job_id` int, `user_id` int, `uuid` varchar(40), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE utf8_general_
